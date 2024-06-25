@@ -1,8 +1,8 @@
-# Library Management System
+# LibTrack
 
 ## Overview
 
-The Library Management System is a console-based application that allows librarians to manage book and student records efficiently. This application supports adding, modifying, and deleting records for both books and students, as well as issuing and depositing books to and from students. It ensures smooth operation and management of the library by tracking issued books and preventing students from borrowing more than one book at a time.
+LibTrack, The Library Management System, is a console-based application that allows librarians to manage book and student records efficiently. This application supports adding, modifying, and deleting records for both books and students, as well as issuing and depositing books to and from students. It ensures smooth operation and management of the library by tracking issued books and preventing students from borrowing more than one book at a time.
 
 ## Features
 
@@ -34,17 +34,17 @@ The Library Management System is a console-based application that allows librari
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/aashish-thapa/library-management-system.git
-   cd library-management-system
+   git clone https://github.com/aashish-thapa/LibTrack.git
+   cd LibTrack
    ```
    
 2.Compile the Code:
   ```sh
-  g++ -o library_management_system main.cpp
+  g++ -o LibTrack main.cpp
 ```
 3.Run the Application:
 ```sh
-./library_management_system
+./LibTrack
 ```
 
 Usage
