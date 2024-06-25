@@ -36,16 +36,17 @@ The Library Management System is a console-based application that allows librari
    ```sh
    git clone https://github.com/aashish-thapa/library-management-system.git
    cd library-management-system
-Compile the Code:
-
-sh
-Copy code
-g++ -o library_management_system main.cpp
-Run the Application:
-
-sh
-Copy code
+   ```
+   
+2.Compile the Code:
+  ```sh
+  g++ -o library_management_system main.cpp
+```
+3.Run the Application:
+```sh
 ./library_management_system
+```
+
 Usage
 Upon running the application, you will be presented with a menu offering various options for managing books and students. The options are self-explanatory and guide you through the necessary steps for each action.
 
